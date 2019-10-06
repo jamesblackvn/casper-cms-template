@@ -118,3 +118,4 @@ Now netlify will build and deploy your site whenever you push to git.
 #### License
 
 [MIT](LICENSE)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48f4ced7-845b-4f61-b692-72091bd7bbad/deploy-status)](https://app.netlify.com/sites/nxbmtest/deploys)
